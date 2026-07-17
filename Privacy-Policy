@@ -1,0 +1,107 @@
+# Privacy Policy for Shiorii
+
+**Effective Date:** July 18, 2026
+
+## 1. Introduction
+Shiorii ("the Application") is an AI-powered Discord assistant designed to help users manage projects, tasks, reminders, and integrations with third-party services such as Google Calendar, Google Drive, GitHub, DigitalOcean, and HRIS platforms.
+
+This Privacy Policy explains what information the Application collects, how it is used, and how it is protected.
+
+## 2. Information Collected
+
+The Application may collect and process the following information:
+
+### Discord Information
+- Discord User ID
+- Discord Server ID
+- Discord Channel ID
+- Discord Username and Display Name
+
+### User Commands and Messages
+- Slash commands submitted to the Application
+- Messages explicitly provided to the Application for processing
+- Configuration settings and preferences
+
+### Integration Data
+If the user authorizes integrations, the Application may access:
+- Google Calendar events
+- Google Drive file metadata
+- Favro tasks and boards
+- GitHub repositories, issues, and pull requests
+- DigitalOcean infrastructure information
+- HRIS information made available through authorized APIs
+
+## 3. How Information Is Used
+
+Information is used solely for the following purposes:
+
+- Responding to user commands
+- Generating AI-powered summaries and recommendations
+- Providing reminders and notifications
+- Retrieving information from connected services
+- Improving application functionality and reliability
+- Troubleshooting and security monitoring
+
+## 4. Data Storage
+
+The Application may temporarily store:
+- User preferences and settings
+- Integration tokens and configuration data
+- Command logs and error logs
+
+The Application does not intentionally store personal conversations beyond what is necessary to provide its functionality.
+
+## 5. Third-Party Services
+
+The Application may interact with third-party services, including:
+
+- Discord
+- Google APIs
+- GitHub
+- DigitalOcean
+- Favro
+- AI service providers used by the Application
+
+The use of these services is subject to their respective privacy policies and terms of service.
+
+## 6. Data Sharing
+
+The Application does not sell, rent, or share personal information with third parties except:
+
+- When required to provide authorized integrations;
+- When required by law;
+- To protect the security and integrity of the Application.
+
+## 7. Data Security
+
+Reasonable technical and organizational measures are implemented to protect information against unauthorized access, disclosure, alteration, or destruction.
+
+However, no method of electronic storage or transmission over the Internet is completely secure.
+
+## 8. User Rights
+
+Users may request:
+
+- Information regarding stored data;
+- Removal of stored preferences or configuration data;
+- Revocation of integration permissions.
+
+## 9. Children's Privacy
+
+The Application is not directed toward children under the age of 13 and does not knowingly collect information from children.
+
+## 10. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically. Continued use of the Application after changes become effective constitutes acceptance of the updated policy.
+
+## 11. Contact Information
+
+For questions regarding this Privacy Policy, please contact:
+
+**Application Name:** Shiorii  
+**Developer:** Aura Milanio  
+**Email:** [Insert Contact Email]
+
+---
+
+By using Shiorii, users acknowledge that they have read and understood this Privacy Policy.
