@@ -1,0 +1,143 @@
+# Terms of Reference (TOR)
+## Shiorii – AI-Powered Project Management Assistant for Discord
+
+### 1. Project Title
+**Shiorii: AI-Powered Discord Project Management Assistant**
+
+### 2. Background
+Project managers and implementation teams use multiple platforms such as calendars, project management tools, source code repositories, cloud infrastructure platforms, and enterprise systems to manage their daily work. Switching between these systems results in inefficiencies, delayed responses, and reduced visibility of project status.
+
+To improve productivity and provide a centralized work assistant, the development of **Shiorii**, an AI-powered Discord application, is proposed. Shiorii will act as a personal and team assistant capable of consolidating information from various systems and providing real-time insights, reminders, and recommendations directly within Discord.
+
+### 3. Purpose
+The project aims to develop an AI-powered assistant that will:
+
+- Centralize project and operational information.
+- Provide daily briefings and reminders.
+- Integrate with work tools and enterprise systems.
+- Assist in project monitoring and decision-making.
+- Automate routine project management activities.
+
+### 4. Objectives
+Specifically, the application shall:
+
+1. Provide AI-powered conversational assistance through Discord.
+2. Integrate with external services and APIs.
+3. Generate project summaries and status reports.
+4. Monitor tasks, deadlines, and infrastructure health.
+5. Provide reminders and notifications.
+6. Support future integrations with HRIS and ERP systems.
+
+### 5. Scope of Work
+
+#### Phase 1 – Core Bot Features
+- User authentication and configuration
+- Slash commands
+- AI-powered question-and-answer interface
+- Daily briefing and reminders
+- Database and configuration management
+
+#### Phase 2 – Productivity Integrations
+- Google Calendar integration
+- Google Drive integration
+- Favro integration
+- Meeting summaries and task generation
+
+#### Phase 3 – Development and Infrastructure Integrations
+- GitHub integration
+- DigitalOcean monitoring
+- Server health checks and alerts
+
+#### Phase 4 – Enterprise System Integrations
+- HRIS API integration
+- Payroll status monitoring
+- Personnel action monitoring
+- Contract expiration notifications
+- Leave and attendance summaries
+
+### 6. Major Features
+
+#### Project Management
+- Task tracking
+- Project dashboards
+- Milestone monitoring
+- Deployment checklists
+
+#### AI Assistant
+- Natural language questions
+- Prioritization recommendations
+- Summaries and reporting
+- Intelligent reminders
+
+#### Notifications
+- Daily briefing
+- Upcoming deadlines
+- Infrastructure alerts
+- Approval reminders
+
+#### Reporting
+- Weekly reports
+- Project summaries
+- Executive dashboards
+- Meeting minutes generation
+
+### 7. Deliverables
+
+1. Discord application and bot.
+2. Backend API services.
+3. Database and configuration repository.
+4. Integration modules.
+5. Documentation and deployment guide.
+6. User manual and administration guide.
+
+### 8. Technology Stack
+
+| Component | Technology |
+|-----------|------------|
+| Backend | Node.js + TypeScript |
+| Bot Framework | Discord.js |
+| Database | PostgreSQL |
+| ORM | Prisma |
+| AI Service | Gemini API / OpenAI API |
+| Hosting | DigitalOcean |
+| Source Control | GitHub |
+| Scheduling | Node-Cron |
+
+### 9. Roles and Responsibilities
+
+#### Project Owner
+- Define requirements and priorities.
+- Approve features and releases.
+
+#### Developer
+- Design and develop the application.
+- Maintain integrations and APIs.
+- Implement security and monitoring.
+
+#### Users
+- Utilize the application according to approved use cases.
+- Provide feedback and enhancement requests.
+
+### 10. Success Criteria
+
+The project shall be considered successful when:
+
+- The Discord bot is operational and stable.
+- External integrations are functioning properly.
+- AI responses are generated successfully.
+- Daily briefings and reminders are automated.
+- Enterprise system integrations are operational.
+- Users can retrieve project information through natural language commands.
+
+### 11. Future Enhancements
+
+- Voice meeting transcription
+- Slack and Microsoft Teams integrations
+- Mobile application
+- Advanced analytics dashboard
+- Predictive project risk analysis
+- Automated report generation
+- Multi-organization support
+
+### 12. Project Name
+**Shiorii – AI-Powered Project Management Assistant**
